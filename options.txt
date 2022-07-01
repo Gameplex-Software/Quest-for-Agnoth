@@ -5,7 +5,7 @@ fov:0.0
 gamma:0.0
 saturation:0.0
 renderDistance:12
-guiScale:3
+guiScale:0
 particles:0
 bobView:true
 anaglyph3d:false
@@ -90,7 +90,7 @@ key_Toggle Freeze Effect:19
 key_Enable/Disable:0
 key_Kill Particles:0
 key_Blacklist Block:45
-key_key.sendpokemon:-96
+key_key.sendpokemon:19
 key_key.nextpokemon:208
 key_key.previouspokemon:200
 key_key.minmaxoverlay:24
@@ -143,7 +143,7 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
-soundCategory_master:0.47019866
+soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
